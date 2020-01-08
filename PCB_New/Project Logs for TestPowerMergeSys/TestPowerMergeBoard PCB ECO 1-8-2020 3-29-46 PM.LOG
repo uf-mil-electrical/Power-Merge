@@ -1,0 +1,27 @@
+Removed Pin From Net: NetName=GND Pin=C4-2
+Removed Pin From Net: NetName=PWR_MERGE Pin=C5-1
+Removed Pin From Net: NetName=GND Pin=C5-2
+Removed Pin From Net: NetName=GND Pin=D5-A
+Removed Pin From Net: NetName=PWR_MERGE Pin=D5-C
+Removed Pin From Net: NetName=GND Pin=D6-C
+Removed Pin From Net: NetName=PWR_MERGE Pin=Q2-D
+Removed Pin From Net: NetName=PWR_MERGE Pin=Q5-D
+Removed Pin From Net: NetName=PWR_MERGE Pin=R2-1
+Removed Pin From Net: NetName=PWR_MERGE Pin=U2-6
+Removed Member From Class: ClassName=TestPowerMergeSys Member=Q5
+Removed Member From Class: ClassName=TestPowerMergeSys Member=R2
+Removed Member From Class: ClassName=TestPowerMergeSys Member=U2
+Change Component Designator: OldDesignator=C7 NewDesignator=C4
+Change Component Designator: OldDesignator=C8 NewDesignator=C5
+Change Component Designator: OldDesignator=C9 NewDesignator=C6
+Change Component Designator: OldDesignator=D7 NewDesignator=D4
+Change Component Designator: OldDesignator=D8 NewDesignator=D5
+Change Component Designator: OldDesignator=D9 NewDesignator=D6
+Change Component Designator: OldDesignator=Q4 NewDesignator=Q2
+Change Component Designator: OldDesignator=Q6 NewDesignator=Q4
+Change Net Name : Old Net Name=NetC9_1 New Net Name=NetC6_1
+Change Net Name : Old Net Name=NetC9_2 New Net Name=NetC6_2
+Added Member To Class: ClassName=TestPowerMergeSys Member=Component Q3 IRFB3306PbF
+Added Member To Class: ClassName=TestPowerMergeSys Member=Component R3 Res
+Added Member To Class: ClassName=TestPowerMergeSys Member=Component U3 LM5050-1
+Added Room: Name=TestPowerMergeSys

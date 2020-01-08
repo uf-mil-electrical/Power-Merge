@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=GND Pin=C7-2
+Removed Pin From Net: NetName=PWR_MERGE Pin=C8-1
+Removed Pin From Net: NetName=GND Pin=C8-2
+Removed Pin From Net: NetName=GND Pin=D8-A
+Removed Pin From Net: NetName=PWR_MERGE Pin=D8-C
+Removed Pin From Net: NetName=GND Pin=D9-C
+Removed Pin From Net: NetName=PWR_MERGE Pin=Q3-D
+Removed Pin From Net: NetName=PWR_MERGE Pin=Q6-D
+Removed Pin From Net: NetName=PWR_MERGE Pin=R3-1
+Removed Pin From Net: NetName=PWR_MERGE Pin=U3-6
+Added Class: Name=TestPowerMergeSys
+Added Room: Name=TestPowerMergeSys
